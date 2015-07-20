@@ -1,6 +1,11 @@
-//[[Rcpp::plugins(cpp11)]]
+
 
 #include <Rcpp.h>
+
+
+template <class T>
+using DynVector = std::vector<T>;
+
 
 // my awesome c11 function
 

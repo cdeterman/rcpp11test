@@ -7,6 +7,6 @@ Author: Your Name
 Maintainer: Your Name <your@email.com>
 Description: More about what it does (maybe more than one line)
 License: GPL (>= 2)
-Imports: Rcpp, Rcpp11
-LinkingTo: Rcpp, Rcpp11
+Imports: Rcpp
+LinkingTo: Rcpp
 SystemRequirements: C++11
