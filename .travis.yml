@@ -8,6 +8,7 @@ compiler:
 r_packages:
   - devtools
   - Rcpp
+  - RcppEigen
   - Rcpp11
 
 before_install:

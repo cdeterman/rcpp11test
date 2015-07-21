@@ -1,6 +1,6 @@
 
 
-#include <Rcpp.h>
+#include <RcppEigen.h>
 
 
 template <class T>
